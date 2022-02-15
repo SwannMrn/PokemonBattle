@@ -1,0 +1,73 @@
+Type,Name,Power,Accuracy,EffectProb,Effect,EffectDesc
+Bug,Steamroller,65,100,30,Flinch,May cause flinching
+Bug,Skitter Smack,70,90,,,
+Bug,Pin Missile,25,85,85,Hit,Hit 2-5 times
+Bug,Leech Life,80,100,100,Restore50,Restores 50% of DMG dealt
+Dark,Sucker Punch,70,100,,,
+Dark,Night Daze,85,95,,,
+Dark,Night Slash,70,100,,,
+Dark,Dark Pulse,80,100,20,Flinch,May cause flinching
+Dragon,Twister,40,100,30,Flinch,May cause flinching
+Dragon,Dragon Tail,60,90,,,
+Dragon,Dragon Pulse,85,100,,,
+Dragon,Dracor Meteor,130,90,,,
+Electric,Zippy Zap,50,100,,,
+Electric,Wild Charge,90,100,100,Recoil,Recoil dmg (25% of max HP)
+Electric,Thunder Shock,40,100,10,Paralize,May paralize opponent
+Electric,Bolt Strike,130,85,20,Paralize,May paralize opponent
+Fairy,Strange Steam,90,95,20,Confuse,May confuse opponent
+Fairy,Moonblast,95,100,,,
+Fairy,Light of Ruin,140,90,100,Recoil,Recoil dmg
+Fairy,Draining Kiss,50,100,100,Restore75,Restores 75% of DMG dealt
+Fighting,Submission,80,80,100,Recoil,Recoil dmg (25% of max HP)
+Fighting,Rock Smash,40,100,,,
+Fighting,Low Sweep,65,100,,,
+Fighting,Jump Kick,100,95,100,Miss50,If miss -50% HP
+Fire,Sizzly Slide,90,100,100,Burn,Burns the opponent
+Fire,Overheat,130,90,,,
+Fire,Mindblown,150,100,100,Recoil,Recoil dmg (25% of max HP)
+Fire,Fire Punch,75,100,10,Burn,May burn opponent
+Flying,Wing Attack,60,100,,,
+Flying,Sky Attack,140,90,30,Flinch,May cause flinching
+Flying,Oblivion Wing,80,100,100,Restore75,Restores 75% of DMG dealt
+Flying,Drill Peck,80,100,,,
+Ghost,Shadow Punch,60,500,,,
+Ghost,Shadow Ball,80,100,,,
+Ghost,Lick,30,100,30,Paralize,May paralize opponent
+Ghost,Astonish,30,100,30,Flinch,May cause flinching
+Grass,Wood Hammer,120,100,100,Recoil,Recoil dmg (25% of max HP)
+Grass,Seed Bomb,80,100,,,
+Grass,Razor Leaf,55,95,,,
+Grass,Needle Arm,60,100,30,Flinch,May cause flinching
+Ground,Thousand Waves,90,100,,,
+Ground,Scorching Sands,70,100,30,Burn,May burn opponent
+Ground,Mud Bomb,65,85,,,
+Ground,Earthquake,100,100,,,
+Ice,Powder Snow,40,100,10,Freeze,May freeze opponent
+Ice,Ice Shard,40,100,,,
+Ice,Ice Punch,75,100,10,Freeze,May freeze opponent
+Ice,Glacial Lance,130,100,,,
+Normal,Vise Grip,55,100,,,
+Normal,Uproar,90,100,,,
+Normal,Chip Away,70,100,,,
+Normal,Barrage,15,85,85,Hit,Hit 2-5 times
+Poison,Venoshock,65,100,100,DblDmgPoison,Double dmg if target poisoned
+Poison,Poison Tail,50,100,10,Poison,May poison opponent
+Poison,Poison Gas,0,100,100,Poison,Poisons the opponent
+Poison,Acid,40,100,,,
+Psychic,Zen Headbutt,80,90,20,Flinch,May cause flinching
+Psychic,Psyshock,80,100,,,
+Psychic,Psycho Cut,70,100,,,
+Psychic,Freezing Glare,90,100,10,Freeze,May freeze opponent
+Rock,Stone Edge,100,80,,,
+Rock,Rock Blast,25,90,90,Hit,Hit 2-5 times
+Rock,Power Gem,80,100,,,
+Rock,Head Smash,150,80,100,Recoil,Recoil dmg (25% of max HP)
+Steel,Sunsteel Strike,100,100,,,
+Steel,Steel Beam,140,95,100,Lose50,Attacker's lose 50% HP
+Steel,Mateor Mash,90,90,,,
+Steel,Bullet Punch,40,100,,,
+Water,Waterfall,80,100,20,Flinch,May cause flinching
+Water,Water Gun,40,100,,,
+Water,Snipe Shot,80,100,,,
+Water,Boncy Bubbles,90,100,100,Restore50,Restores 50% of DMG dealt
