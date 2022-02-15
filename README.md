@@ -14,7 +14,6 @@ Pokemon franchise, Nintendo, GameFreak
 
 - [Damage Formulas](https://bulbapedia.bulbagarden.net/wiki/Damage)
 - [Moves and Attacks](https://pokemondb.net/move/all)
-- [Sprites](https://github.com/msikma/pokesprite)
 - [Pokedex](https://pokemondb.net/pokedex/national)
 - [Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
 - [Pokedex CSV](https://docs.google.com/spreadsheets/d/1fcZ4xpDpcgP08px3WtWoa4xdMKXBfBeNmmFhK7DEg70/edit?usp=sharing)
