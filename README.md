@@ -9,6 +9,10 @@ The abilities are included in the pok_moves.csv that we filled in from a real da
 
 This is not a realistic or faithful representation of pokemon's gameplay, and it surely is inaccurate and false.
 
+#### All credit goes to Nintendo©, GameFreak© and Nantic©.
+
+![Gif](https://media.giphy.com/media/hHuKzq6TYL6m7ew2t7/giphy.gif)
+
 ### Documentation
 - [Python | Classes](https://www.w3schools.com/python/python_classes.asp)
 - [Python | Print f-strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
