@@ -10,17 +10,17 @@ The abilities are included in the pok_moves.csv that we filled in from a real da
 This is not a realistic or faithful representation of pokemon's gameplay, and it surely is inaccurate and false.
 
 ### Documentation
-- [Python - Classes](https://www.w3schools.com/python/python_classes.asp)
-- [Python - Print f-strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
+- [Python | Classes](https://www.w3schools.com/python/python_classes.asp)
+- [Python | Print f-strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
 - [Python | Delay Print](https://stackoverflow.com/questions/63667312/printing-in-the-different-line-in-python)
 - [Python | String escape](https://www.w3schools.com/python/gloss_python_escape_characters.asp)
 
 ### Sources
 Pokemon franchise, Nintendo, GameFreak
 
-- [Damage Formulas](https://bulbapedia.bulbagarden.net/wiki/Damage)
-- [Moves and Attacks](https://pokemondb.net/move/all)
-- [Type Damage](https://pokemondb.net/type)
-- [Pokedex](https://pokemondb.net/pokedex/national)
-- [Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
-- [Pokedex CSV](https://docs.google.com/spreadsheets/d/1W5bng0oFd-V-_rFJJCsP7PYxIY6peKWOS2BHKs6fCDo/edit?usp=sharing)
+- [Pokemon | Damage Formulas](https://bulbapedia.bulbagarden.net/wiki/Damage)
+- [Pokemon | Moves and Attacks](https://pokemondb.net/move/all)
+- [Pokemon | Type Damage](https://pokemondb.net/type)
+- [Database | Pokedex](https://pokemondb.net/pokedex/national)
+- [Database | Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
+- [Database | Pokedex CSV](https://docs.google.com/spreadsheets/d/1W5bng0oFd-V-_rFJJCsP7PYxIY6peKWOS2BHKs6fCDo/edit?usp=sharing)
