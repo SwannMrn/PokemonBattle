@@ -9,13 +9,18 @@ The abilities are included in the pok_moves.csv that we filled in from a real da
 
 This is not a realistic or faithful representation of pokemon's gameplay, and it surely is inaccurate and false.
 
+### Documentation
+- [Python - Classes](https://www.w3schools.com/python/python_classes.asp)
+- [Python - Print f-strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
+- [Python | Delay Print](https://stackoverflow.com/questions/63667312/printing-in-the-different-line-in-python)
+- [Python | String escape](https://www.w3schools.com/python/gloss_python_escape_characters.asp)
+
 ### Sources
 Pokemon franchise, Nintendo, GameFreak
 
 - [Damage Formulas](https://bulbapedia.bulbagarden.net/wiki/Damage)
 - [Moves and Attacks](https://pokemondb.net/move/all)
 - [Type Damage](https://pokemondb.net/type)
-- [Type Damage2](https://preview.redd.it/zh41uur9deb71.jpg?auto=webp&s=6f7fded0d13fc78f3173b4845f83865439b11058)
 - [Pokedex](https://pokemondb.net/pokedex/national)
 - [Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
-- [Pokedex CSV](https://docs.google.com/spreadsheets/d/1fcZ4xpDpcgP08px3WtWoa4xdMKXBfBeNmmFhK7DEg70/edit?usp=sharing)
+- [Pokedex CSV](https://docs.google.com/spreadsheets/d/1W5bng0oFd-V-_rFJJCsP7PYxIY6peKWOS2BHKs6fCDo/edit?usp=sharing)
