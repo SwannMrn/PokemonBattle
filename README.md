@@ -13,9 +13,9 @@ This is not a realistic or faithful representation of pokemon's gameplay, and it
 Pokemon franchise, Nintendo, GameFreak
 
 - [Damage Formulas](https://bulbapedia.bulbagarden.net/wiki/Damage)
-- [Video Help](https://www.youtube.com/watch?v=Pbs6jQZrZA4)
 - [Moves and Attacks](https://pokemondb.net/move/all)
 - [Type Damage](https://pokemondb.net/type)
+- [Type Damage2](https://preview.redd.it/zh41uur9deb71.jpg?auto=webp&s=6f7fded0d13fc78f3173b4845f83865439b11058)
 - [Pokedex](https://pokemondb.net/pokedex/national)
 - [Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
 - [Pokedex CSV](https://docs.google.com/spreadsheets/d/1fcZ4xpDpcgP08px3WtWoa4xdMKXBfBeNmmFhK7DEg70/edit?usp=sharing)
