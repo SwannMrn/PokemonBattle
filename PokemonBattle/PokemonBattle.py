@@ -51,10 +51,10 @@ class Pokemon:
 
         # type advantages
         coeff = pok.type_weak_or_strong(self.name, Pokemon2.name)
-        # if pokemons are same type
+        # if pokemon2 type normal effectiveness
         if coeff == 1:
-            str1_atk = ""
-            str2_atk = ""
+            str1_atk = "...\n"
+            str2_atk = "...\n"
 
         # Pokemon2 type > pokemon type
         if coeff == 0.5:
@@ -89,7 +89,7 @@ class Pokemon:
             index = int(input("Pick a move. >>> "))
             cur_move = self.moves[index-1]
             delay_print(f"{self.name} used {cur_move}!\n")
-            time.sleep(1)
+            time.sleep(0.5)
             delay_print(str1_atk)
 
             # dmg calculation
@@ -141,11 +141,11 @@ class Pokemon:
 
             # Check if pokemon alive
             if Pokemon2.bars <= 0:
-                delay_print("\n... " + Pokemon2.name + f" fainted.  Opponent paid you ₱{money}.")
+                delay_print("\n... " + Pokemon2.name + f" fainted.  Opponent paid you ₱{money}.\n")
                 break
 
             if self.bars <= 0:
-                delay_print("\n... " + self.name + f" fainted.  Opponent paid you ₱{money}.")
+                delay_print("\n... " + self.name + f" fainted.  You paid the opponent ₱{money}.\n")
 
 
 
