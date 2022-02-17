@@ -108,9 +108,13 @@ class Pokemon:
             time.sleep(0.5)
 
             # Check if pokemon alive
+            money = np.random.choice(5000)
             if Pokemon2.bars <= 0:
-                delay_print("\n... " + Pokemon2.name + ' fainted.')
+                delay_print("\n... " + Pokemon2.name + f" fainted.  Opponent paid you ₱{money}.")
                 break
+
+            if self.bars <= 0:
+                delay_print("\n... " + self.name + f" fainted.  Opponent paid you ₱{money}.")
 
             # Pokemon2 turn
             print(f"Go {Pokemon2.name}!")
@@ -136,14 +140,12 @@ class Pokemon:
             time.sleep(0.5)
 
             # Check if pokemon alive
-            money = np.random.choice(5000)
             if Pokemon2.bars <= 0:
-                delay_print("\n... " + Pokemon2.name + ' fainted. ')
-                delay_print(f" Opponent paid you ₱{money}.")
+                delay_print("\n... " + Pokemon2.name + f" fainted.  Opponent paid you ₱{money}.")
                 break
+
             if self.bars <= 0:
-                delay_print("\n... " + self.name + ' fainted. ')
-                delay_print(f" You paid your opponent ₱{money}.")
+                delay_print("\n... " + self.name + f" fainted.  Opponent paid you ₱{money}.")
 
 
 

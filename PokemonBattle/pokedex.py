@@ -220,7 +220,7 @@ def type_weak_or_strong(pok1: str, pok2: str):
     for y in range(18):
         if pok1_type == li1[y]:
             pok1ind = y
-    pok1_coef = int(chart3[pok1ind][pok2_type])
+    pok1_coef = float(chart3[pok1ind][pok2_type])
     return pok1_coef
 
 
