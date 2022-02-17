@@ -223,3 +223,9 @@ def type_weak_or_strong(pok1: str, pok2: str):
     pok1_coef = int(chart3[pok1ind][pok2_type])
     return pok1_coef
 
+
+def pokemon_list():
+    poklist = []
+    for x in range(len(chart)):
+        poklist.append(chart[x]['Pokemon'])
+    return poklist
