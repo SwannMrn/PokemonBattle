@@ -28,3 +28,5 @@ Pokemon franchise, Nintendo, GameFreak
 - [Database | Pokedex](https://pokemondb.net/pokedex/national)
 - [Database | Moves CSV](https://docs.google.com/spreadsheets/d/1U4qhumcTnkObicnnsfjgXcnLyhv6J407dGyIERttbDE/edit?usp=sharing)
 - [Database | Pokedex CSV](https://docs.google.com/spreadsheets/d/1W5bng0oFd-V-_rFJJCsP7PYxIY6peKWOS2BHKs6fCDo/edit?usp=sharing)
+
+#### [Slides Presentation](https://docs.google.com/presentation/d/1hQ5DlycY5bFGpgVu1Lv4fXZIdnBS4oq_IM4vWsPMErg/edit?usp=sharing)
