@@ -136,12 +136,20 @@ class Pokemon:
             time.sleep(0.5)
 
             # Check if pokemon alive
-            if self.bars <= 0:
+            money = np.random.choice(5000)
+            if Pokemon2.bars <= 0:
                 delay_print("\n... " + Pokemon2.name + ' fainted. ')
+                delay_print(f" Opponent paid you ₱{money}.")
                 break
+            if self.bars <= 0:
+                delay_print("\n... " + self.name + ' fainted. ')
+                delay_print(f" You paid your opponent ₱{money}.")
 
-        money = np.random.choice(5000)
-        delay_print(f"Opponent paid you ₱{money}.")
 
-Pokemon.fight(Pokemon('Mew'), Pokemon('Charmander'))
+
+lis1 = pok.pokemon_list()
+apok1 = input("Choose your pokemon! (names only, uppercase at the beginning) >>> ")
+apok2 = random.choice(lis1)
+
+Pokemon.fight(Pokemon(apok1), Pokemon(apok2))
 
