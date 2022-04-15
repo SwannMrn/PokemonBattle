@@ -1,4 +1,4 @@
-# PokemonBattle
+# PyKemon
 ### By Luis Belmar-Zhou Letelier & Swann Merienne
 
 #### [Slides Presentation](https://docs.google.com/presentation/d/1hQ5DlycY5bFGpgVu1Lv4fXZIdnBS4oq_IM4vWsPMErg/edit?usp=sharing)
