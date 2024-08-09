@@ -1,9 +1,5 @@
 {
     "packages": [
-        "numpy",
-        "time",
-        "random",
-        "sys",
-        "csv"
+        "numpy"
     ]
 }
