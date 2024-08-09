@@ -1,7 +1,9 @@
+import sys
 import random
 import time
 import numpy as np
-import sys
+
+sys.path.append(".")
 import pokedex as pok
 
 # delay printing (like in pokemon games)
