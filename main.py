@@ -1,9 +1,12 @@
 import sys
+import os
 import random
 import time
 import numpy as np
 
-sys.path.append(".")
+current_directory = os.path.dirname(os.path.abspath(__file__))
+print(current_directory)
+sys.path.append(current_directory)
 import pokedex as pok
 
 # delay printing (like in pokemon games)
