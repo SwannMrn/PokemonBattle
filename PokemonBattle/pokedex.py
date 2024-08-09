@@ -2,19 +2,19 @@ import random
 import csv
 
 chart = []
-with open("resources/CSV/pokedex.csv") as f:
+with open("./resources/CSV/pokedex.csv") as f:
     c = csv.DictReader(f, delimiter=',')
     for line in c:
         chart.append(line)
 
 chart2 = []
-with open("resources/CSV/pok_moves.csv") as f2:
+with open("./resources/CSV/pok_moves.csv") as f2:
     c2 = csv.DictReader(f2, delimiter=',')
     for line2 in c2:
         chart2.append(line2)
 
 chart3 = []
-with open("resources/CSV/pok_type_chart.csv") as f3:
+with open("./resources/CSV/pok_type_chart.csv") as f3:
     c3 = csv.DictReader(f3, delimiter=',')
     for line3 in c3:
         chart3.append(line3)
@@ -22,7 +22,7 @@ with open("resources/CSV/pok_type_chart.csv") as f3:
 
 def pok_index(pokemon: str) -> int:
     """takes a pokemon's name and returns his index number"""
-    file = open("resources/CSV/pokedex.csv", "r")
+    file = open("./resources/CSV/pokedex.csv", "r")
     c1 = csv.DictReader(file, delimiter=',')
     for li in c1:
         if li['Pokemon'] == pokemon:
