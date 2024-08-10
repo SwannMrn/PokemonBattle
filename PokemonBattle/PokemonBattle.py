@@ -1,8 +1,7 @@
-import sys
-import os
 import random
 import time
 import numpy as np
+import sys
 import pokedex as pok
 
 # delay printing (like in pokemon games)
